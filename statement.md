@@ -1,19 +1,19 @@
-**#Problem Statement**  
+# Problem Statement**  
 
 The objective of this project is to develop a machine learning model that can accurately classify breast tumors as 
 malignant or benign based on numerical features extracted from Fine Needle Aspiration (FNA) images .  
 
-**Objectives :**     
+Objectives :    
 
-1.Analyzes tumor characteristics such as radius, texture, perimeter, area, and smoothness     
+- Analyzes tumor characteristics such as radius, texture, perimeter, area, and smoothness     
 
-2.Learns the patterns differentiating malignant and benign tumors    
+- Learns the patterns differentiating malignant and benign tumors    
 
-3.Achieves higher accuracy than manual diagnosis     
+- Achieves higher accuracy than manual diagnosis     
 
-4.Helps in early detection and reduces human error. 
+- Helps in early detection and reduces human error. 
 
-**#Scope of the Project** 
+## Scope of the Project** 
 
 The main scope of this project is to build a machine learning model that can help in early breast cancer detection
 as early diagnosis increases the chances of survival. Traditionally, doctors analyse cell images to 
@@ -22,30 +22,30 @@ so accurate as the main challenges to classify the tumor into benign or malignan
 consumption and increased rate of accuracy, Machine learning offers a way 
 to support doctors by automatically learning patterns from medical reports.  
 
-**#Target Users:** 
+## Target Users:
 
--Medical student  
+- Medical student  
 
--Researchers 
+- Researchers 
 
--Doctors 
+- Doctors 
 
--Diagnostic assistants 
+- Diagnostic assistants 
 
--Software developers  
+- Software developers  
 
-**#High Level Features**  
+## High Level Features  
 
-Breast Cancer Dataset containing 30 FNA-based features and processes it.  
+- Breast Cancer Dataset containing 30 FNA-based features and processes it.  
  
-Visualisaing the dataset using plots like histograms, heatmaps, pairplots, and scatterplots.  
+- Visualisaing the dataset using plots like histograms, heatmaps, pairplots, and scatterplots.  
  
-Data splitting into training and testing sets for proper model evaluation.   
+- Data splitting into training and testing sets for proper model evaluation.   
 
-Trains an SVM classifier to separate malignant and benign tumor samples.  
+- Trains an SVM classifier to separate malignant and benign tumor samples.  
 
-Predicts the type of a tumor (benign or malignant) based on input features.  
+- Predicts the type of a tumor (benign or malignant) based on input features.  
 
-Generates evaluation metrics including confusion matrix and classification report.  
+- Generates evaluation metrics including confusion matrix and classification report.  
 
-Provides a simple and easy to follow ML workflow for understanding to model development. 
+- Provides a simple and easy to follow ML workflow for understanding to model development. 
