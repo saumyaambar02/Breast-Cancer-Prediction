@@ -49,7 +49,7 @@ Feature Group: Description
 
 1.⁠ ⁠Clone or Download the Project 
 
-git clone <repo-link> 
+git clone https://github.com/saumyaambar02/Breast-Cancer-Prediction.git 
 
 2.⁠ ⁠Create a Virtual Environment  
 
