@@ -87,7 +87,55 @@ The model learns patterns from tumor features and uses them to predict the final
 
 ---
 
-## 🛠️ How to Run the Project
+## Features of the Project 
+
+✨ Key Features
+
+- Clean dataset loading using the built-in Breast Cancer Wisconsin dataset from scikit-learn.
+
+- Easy-to-understand data exploration to get a feel for all 30 diagnostic features.
+
+- Visualizations (heatmaps, pair plots, distribution graphs) to understand patterns and relationships.
+
+- Preprocessing pipeline with splitting features and labels, then dividing data into train/test sets.
+
+- SVM-based classification model that learns the difference between malignant and benign tumors.
+
+- Model evaluation using accuracy score, confusion matrix, and classification metrics.
+
+- Simple, modular code structure so each part (loading, visualization, training, prediction) stays readable.
+
+- Fast & lightweight — no external database or heavy dependencies required.
+
+
+
+---
+
+## ✅ Tools Used 
+
+🛠️ Tools & Technologies Used
+
+Python – main programming language
+
+Pandas – for handling tabular data
+
+NumPy – for numerical computations
+
+Matplotlib & Seaborn – for plots and visual insights
+
+scikit-learn –
+
+To load the breast cancer dataset
+
+To build the SVM model
+
+To split data and evaluate results
+
+Jupyter Notebook 
+
+---
+
+## 🛠️ Steps to install & run the Project 
 
 
 ### 1️⃣ Install all the required Libraries
@@ -150,7 +198,7 @@ The SVM model typically performs very well on this dataset, often achieving:
 
 ## 🌟 Key Highlights of the Project
 
-•⁠  ⁠Modular and readable code
-•⁠  ⁠Clean ML workflow (load → preprocess → train → evaluate)
-•⁠  ⁠Human‑friendly explanations
-•⁠  ⁠Easy to extend with more models or features
+- Modular and readable code
+- ⁠Clean ML workflow (load → preprocess → train → evaluate)
+- Human‑friendly explanations
+- ⁠Easy to extend with more models or features
