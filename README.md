@@ -38,7 +38,7 @@ The structure of the project is kept simple and organized:
 ⁠ bash
 📁 Breast-Cancer-Prediction
 │── README.md              → Project documentation
-│── LICENSE                → MIT License
+│── LICENSE                → Apache License 2.0
 │── .gitignore             → Files excluded from Git
 │── main.py                → Entry point of the project
 │── train.py               → Model training script
